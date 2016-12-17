@@ -37,7 +37,5 @@
         android:text="Sign In"
         android:id="@+id/btnSignIn"
         android:layout_below="@+id/edtPassword"
-        android:clickable="true"
-        android:onClick="doLogin"
         android:layout_centerHorizontal="true" />
 </RelativeLayout>
